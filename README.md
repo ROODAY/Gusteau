@@ -21,3 +21,7 @@ The ultimate pantry inventory, grocery list, and recipe finder
 - Substitute ingredients (say soy milk for real milk, etc.).
 - Integrate with online stores to order immediately.
 - Allow user uploaded recipes.
+- Recommend recipes based on previous choices, what people nearby are cooking, etc.
+- Option to try new dishes than in the past using same ingredients.
+- Say how many people are eating and ingredients count is auto-adjusted.
+- Option to optimize to finish up ingredients before moving on to next to free up shelf/fridge space.

@@ -25,3 +25,4 @@ The ultimate pantry inventory, grocery list, and recipe finder
 - Option to try new dishes than in the past using same ingredients.
 - Say how many people are eating and ingredients count is auto-adjusted.
 - Option to optimize to finish up ingredients before moving on to next to free up shelf/fridge space.
+- Plan recipes between shopping dates (down to a meal for a specific calendar day). Optimize by searching for recipes that use similar ingredients so you can plan to buy in bulk to save money and have recipes ready to use up that stuff (if we can integrate with a store, could plan that recipes x y z and will exactly use up your ingredients you buy on data A and last till date B for next trip)
